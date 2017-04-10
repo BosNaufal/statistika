@@ -11,26 +11,26 @@ class AngkaIndeks extends React.Component {
       nilai: {},
       frekuensi: 0,
       data: [
-        {
-          nilai: { p0: 60, pn: 62 },
-          frekuensi: 10
-        },
-        {
-          nilai: { p0: 63, pn: 65 },
-          frekuensi: 25
-        },
-        {
-          nilai: { p0: 66, pn: 68 },
-          frekuensi: 32
-        },
-        {
-          nilai: { p0: 69, pn: 71 },
-          frekuensi: 15
-        },
-        {
-          nilai: { p0: 72, pn: 74 },
-          frekuensi: 18
-        },
+        // {
+        //   nilai: { p0: 60, pn: 62 },
+        //   frekuensi: 10
+        // },
+        // {
+        //   nilai: { p0: 63, pn: 65 },
+        //   frekuensi: 25
+        // },
+        // {
+        //   nilai: { p0: 66, pn: 68 },
+        //   frekuensi: 32
+        // },
+        // {
+        //   nilai: { p0: 69, pn: 71 },
+        //   frekuensi: 15
+        // },
+        // {
+        //   nilai: { p0: 72, pn: 74 },
+        //   frekuensi: 18
+        // },
       ]
     }
   }
